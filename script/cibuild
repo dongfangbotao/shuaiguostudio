@@ -1,7 +1,0 @@
-#!/usr/bin/env bash
-set -e
-
-npm install gulp-cli -g
-npm install
-gem install jekyll sass bundler jekyll-minifier jekyll-sitemap
-gulp build
