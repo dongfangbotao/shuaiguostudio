@@ -1,0 +1,8 @@
+- title: Personal Blog
+  demo: https://lrusso96.github.io/blog
+  code: https://github.com/lrusso96/blog
+  description: This is my personal blog, where I collect notes, exercises, etc. mostly about Cryptography.
+  img: blog
+  used:
+    - thing: cryptography
+

@@ -1,0 +1,39 @@
+# Site settings
+name: Luigi Russo
+title: Luigi Russo | Research Engineer
+description: Research engineer passionate about cryptography and writing code.
+url: https://lrusso96.github.io/
+baseurl: ""
+email: russol@eurecom.fr
+cover: https://lrusso96.github.io/img/og.jpg
+logo: https://lrusso96.github.io/img/logo-black.png
+resume: https://lrusso96.github.io/resume.pdf
+social:
+  - title: email
+    url: mailto:russol@eurecom.fr
+  - title: instagram
+    url: https://instagram.com/luigi.russo19
+  - title: github
+    url: https://github.com/lrusso96
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "*.gemspec"
+  - "README.md"
+  - "node_modules"
+  - "build"
+  - "gulpfile.js"
+  - "package.json"
+
+keep_files:
+  - "CNAME"
+  - ".git"
+  - ".gitignore"
+
+plugins:
+  - jekyll-minifier
+  - jekyll-sitemap

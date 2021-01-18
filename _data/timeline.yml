@@ -1,0 +1,20 @@
+- position: BSc. Computer and Systems Engineering
+  company: Sapienza University, Rome (IT)
+  url: http://www.ccis.northeastern.edu/program/information-science-bs/
+  description: Final grade - <strong>110/110 with honors.</strong>
+  sprite: university
+  date: 2015 - 2018
+
+- position: MSc. Engineering in Computer Science
+  company: Sapienza University, Rome (IT)
+  url: http://www.ccis.northeastern.edu/program/information-science-bs/
+  description: Final grade - <strong>110/110 with honors.</strong>
+  sprite: university
+  date: 2018 - 2020
+
+- position: Research Engineer
+  company: EURECOM
+  url: https://www.eurecom.fr/
+  description: "Supervisor: prof. Antonio Faonio"
+  sprite: industry
+  date: Jan - Jul 2021
