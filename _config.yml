@@ -7,7 +7,7 @@ baseurl: ""
 email: russol@eurecom.fr
 cover: https://lrusso96.github.io/img/og.jpg
 logo: https://lrusso96.github.io/img/logo-black.png
-resume: https://lrusso96.github.io/resume.pdf
+resume: https://raw.githubusercontent.com/lrusso96/cv/master/main.pdf
 social:
   - title: email
     url: mailto:russol@eurecom.fr
