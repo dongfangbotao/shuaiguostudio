@@ -1,27 +1,27 @@
-- position: BSc. Computer and Systems Engineering
-  company: Sapienza University, Rome (IT)
-  url: https://uniroma1.it
-  description: Final grade - <strong>110/110 with honors.</strong>
-  sprite: university
-  date: 2015 - 2018
+- position: shuaiguostudio
+  company: shuaiguostudio (IT)
+  url: 暂无
+  description: 创建一年
+  sprite: school
+  date: 2021 - 2022
 
-- position: MSc. Engineering in Computer Science
-  company: Sapienza University, Rome (IT)
-  url: https://uniroma1.it
-  description: Final grade - <strong>110/110 with honors.</strong>
-  sprite: university
-  date: 2018 - 2020
+- position: sg
+  company: Sg
+  url: wu
+  description: sg
+  sprite: sg
+  date: 2022 - 2023
 
-- position: Research Engineer
-  company: EURECOM
-  url: https://www.eurecom.fr/
-  description: "Supervisor: prof. Antonio Faonio"
-  sprite: industry
-  date: Jan - Jul 2021
+- position: sg
+  company: sg
+  url: sg
+  description: sg
+  sprite: sg
+  date: Jan - Jul 2023
 
-- position: PhD in Cryptography
-  company: Sorbonne University & EURECOM
-  url: https://www.eurecom.fr/
-  description: "Supervisor: prof. Antonio Faonio"
-  sprite: university
+- position: sg
+  company: sg
+  url: sg
+  description: sg
+  sprite: sg
   date: Oct 2021 -
